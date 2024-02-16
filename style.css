@@ -1,0 +1,27 @@
+html {
+  height: 100%;
+  width: 100vw;
+}
+
+textarea {
+  width: 75vw;
+  height: 20em;
+}
+
+table, td, tr {
+  border-color: black;
+  border-style: solid;
+}
+
+.btn-main {
+  font-size: 1.25em;
+  padding: 0.5em;
+  border-radius: 0.5em;
+  border: none;
+  background-color: #f22e2e;
+  color: #fff;
+}
+
+.parse-btn {
+  
+}
